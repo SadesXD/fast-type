@@ -6,7 +6,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/777509514890313758/792403274007314492/unknown.png" alt="iniGambar">
 
-- 3. If you done, you can just click the file called `play.bat` and play the game
+- 3. If you done, you can just click the file called `play.bat` or you can just click python file [ `main.py` ] and play the game
 
     <img src="https://cdn.discordapp.com/attachments/777509514890313758/792404217511542794/unknown.png" alt="iniGambar">
 
