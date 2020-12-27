@@ -13,7 +13,10 @@ def play():
     os.system('cls')
 
     while tik <= 2:
-        tem2 = time.localtime()[4] * 60 + time.localtime()[5]
+        tems2 = time.localtime()[4]
+        if tems2 == 0:
+            tems2 = 60
+        tem2 = tems2 * 60 + time.localtime()[5]
         waktu = 60 - (tem2 - tem)
         if tem2 - tem < 60:
             if mulai.lower() == rand:
